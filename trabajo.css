@@ -400,11 +400,7 @@ input {
 }
 
 
-@media screen and (max-width: 480px) {
-  .pics {
-      width: 300px;
-  }
-}
+
 
 @media screen and (max-width: 480px) {
   .clic {
