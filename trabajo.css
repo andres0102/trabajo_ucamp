@@ -408,9 +408,6 @@ input {
   }
 }
 
-
-
-
     @media screen and (max-width: 767px) {
       .navbar-brand {
           display: none;
@@ -421,4 +418,3 @@ input {
           text-align: center;
       }
   }
-/* .  */
