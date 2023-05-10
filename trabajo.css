@@ -1,7 +1,7 @@
 /* barra de navegacion */
 .navbar {
     padding: 0px;
-    background-image: url(../trabajo_ucamp/imagenes/fondo3.jpg);
+    background-image: url(../trabajo_ucamp/imagen/fondo3.jpg);
     color: aliceblue;
 }
 .navbar-collapse{
@@ -73,7 +73,7 @@ h1 {
 }
 
 .seccion-oscura{
-    background-image: url(../trabajo_ucamp/imagenes/fonde3.jpg);
+    background-image: url(../trabajo_ucamp/imagen/fonde3.jpg);
     color: white;
 }
 
@@ -95,7 +95,7 @@ h1 {
 /* seccionhero */
 .hero {
   min-height: 650px;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url(../trabajo_ucamp/imagenes/imagen\ 4.jpeg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.4)), url(../trabajo_ucamp/imagen/imagen\ 4.jpeg);
   border-radius: 0%;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -113,7 +113,7 @@ h1 {
     top: 0px;
     position: absolute;
     z-index: -1;
-    background-image: url(../trabajo_ucamp/imagenes/fondo3.jpg);
+    background-image: url(../trabajo_ucamp/imagen/fondo3.jpg);
     background-repeat: repeat;
     border-color: black;
     background-size: contain;
@@ -159,7 +159,7 @@ h1 {
 }
 .pictures-recientes{
     width: 100%;
-    background-image: url(../trabajo_ucamp/imagenes/fonde3.jpg)  ;
+    background-image: url(../trabajo_ucamp/imagen/fonde3.jpg)  ;
     padding-bottom: 45px;
   }
   .frame {
@@ -272,7 +272,7 @@ margin-bottom: 2%;
 
 form{
 
-background-image: url(../trabajo_ucamp/imagenes/negro.jpg);
+background-image: url(../trabajo_ucamp/imagen/negro.jpg);
 border-radius: 4%;
 width: 60%;
 border-color: black;
@@ -349,7 +349,7 @@ input {
 }
 /* footer */
 .pie-pagina{
-  background-image: url(../trabajo_ucamp/imagenes/fonde3.jpg);
+  background-image: url(../trabajo_ucamp/imagen/fonde3.jpg);
   padding-bottom: 0px;
   border-top: 2px solid white;
 }
