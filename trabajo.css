@@ -402,6 +402,11 @@ input {
 
 
 
+@media screen and (max-width: 480px) {
+  .clic {
+      display: none;
+  }
+}
 
 
 
