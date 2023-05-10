@@ -38,7 +38,7 @@
 .clic {
   font-family: 'Rock Salt', cursive;
   float: right;
-  max-width: 7;
+  max-width: -100%;
   position: relative;
   top: 250px;
   right: 85px;
@@ -100,7 +100,6 @@ h1 {
   background-repeat: no-repeat;
   background-position: 50% 50%;
   max-width: 100%;
-  height: ;
   text-align: center;
   background-size: contain;
 }  
@@ -401,6 +400,11 @@ input {
 }
 
 
+@media screen and (max-width: 480px) {
+  .pics {
+      width: 300px;
+  }
+}
 
 @media screen and (max-width: 480px) {
   .clic {
